@@ -1,4 +1,4 @@
-name: NetAquarium
+name: netaquarium
 channels:
   - defaults
 dependencies:
